@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    //to reset the game
+    //to reset the game and reset all the local variable
     public void ResetTheGame()
     {
         for(int index = 0; index < gridLayout.getChildCount();index++)
